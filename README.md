@@ -81,3 +81,7 @@ The manifest says a linked PDF was downloaded only when its object-storage URL r
 - Product manuals appear for only 24 standards, and corrigenda, summaries and standard formats are empty. The BIS service also exposes licensing, laboratory and scheme endpoints, which this snapshot does not include. Crawl them in a separate, rate-limited pass if you need them.
 - A catalogue record or attachment URL does not confirm that a standard is current. Check the current BIS page and the latest revision before you rely on it.
 - The repo has no license file. Check the BIS licensing conditions before you redistribute the PDFs or data derived from them.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
